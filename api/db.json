@@ -1,0 +1,31 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "this is the first element on the collection",
+      "authorId": 1
+    },
+    {
+      "id": 2,
+      "title": "And now time for a second one...",
+      "authorId": 2
+    },
+    {
+      "id": 3,
+      "title": "... and the last one.",
+      "authorId": 1
+    }
+  ],
+  "authors": [
+    {
+      "id": 1,
+      "name": "Santiago Camelo",
+      "email": "trikanna@gmail.com"
+    },
+    {
+      "id": 2,
+      "name": "Pepe Trueno",
+      "email": "pepetrueno@gmail.com"
+    }
+  ]
+}
