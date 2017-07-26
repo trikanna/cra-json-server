@@ -4,6 +4,10 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 <img width="1024" alt="" src="./screen.png">
 
+## setup
+
+```npm install``` & ```npm start```
+
 ### db.json
 
 ```json
